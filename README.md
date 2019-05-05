@@ -4,7 +4,7 @@ NOR Image build
 常常需要订做NOR Image FW
 NOR Image通常格式如下：（举一个例子）
 
-#地址     文件名
+#起始地址     文件名
 
 0x0        slb1_nor.mbn
 
